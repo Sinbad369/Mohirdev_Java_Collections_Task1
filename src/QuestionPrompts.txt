@@ -1,0 +1,51 @@
+### **English Prompts:**
+
+#### **ArrayList Tasks 1:**
+1. **a)** Using ArrayList, add seven colors and print them.
+2. **b)** Change the first element of the colorList into another value.
+3. **c)** Write a program that prints the elements of an ArrayList and their size.
+
+#### **ArrayList Tasks 2:**
+1. **a)** Create an ArrayList filled with any data of your choice. Then, search for an element in the collection based on a specific value. Display a message on the console indicating whether the searched element was found or not.
+2. **b)** Make a copy of the ArrayList.
+3. **c)** Write a program to shuffle the elements of the ArrayList.
+
+#### **ArrayList Task 3:**
+1. **a)** Write a method to arrange the elements of an ArrayList in reverse order.
+2. **b)** Write a method to extract a portion of the ArrayList based on given parameters (int firstIndex, int lastIndex).
+
+#### **ArrayList Task 4:**
+1. **a)** Write a method that compares two ArrayList collections element by element and writes the result to another collection.
+   Example: ["Green", "Red"] & ["Green", "Black"] -> result: ["Yes", "No"]
+
+#### **ArrayList Task 5:**
+1. **a)** Write a method to swap two elements in an ArrayList.
+2. **b)** Write a method to merge two ArrayList collections.
+3. **c)** Create an ArrayList with a capacity to hold only 3 elements, and after adding 3 elements, increase the size of the collection to hold 6 elements.
+
+---
+
+### **Uzbek Prompts:**
+
+#### **ArrayList Topshiriqlar 1:**
+1. **a)** ArrayList klasidan foydalanib, 7 ta ranglarni to’plamga qo’shib, uni ekranga chop eting.
+2. **b)** Yaratilgan to’plamning birinchi elementini boshqa qiymatga o’zgartiring.
+3. **c)** To’plamning elementlarini, o’lchamini ekranga chiqaruvchi dastur tuzing.
+
+#### **ArrayList Topshiriqlar 2:**
+1. **a)** Ixtiyoriy ma’lumot bilan to’ldirilgan ArrayList yarating. Hamda to’plamning ichidan elementlarni biror qiymat bo’yicha qidiring. Qidirgan elementingiz topilgani yoki topilmagani haqida konsolga ma’lumot chiqaring.
+2. **b)** ArrayListdan nusxa oling.
+3. **c)** ArrayList elementlarni aralashtirish uchun dastur yozing.
+
+#### **ArrayList Topshiriq 3:**
+1. **a)** ArrayList to’plami elementlarini teskari tartibda joylashtiruvchi metod yozing.
+2. **b)** ArrayList to’plamini parametrida berilgan (int firstIndex, int lastIndex) qiymatlar bo’yicha bo’lagini kesib oluvchi metod yozing.
+
+#### **ArrayList Topshiriq 4:**
+1. **a)** Ikkita ArrayList to’plamini mos elementlari bilan solishtiruvchi va natijani boshqa to’plamga yozib ketuvchi metod yozing.
+   Namuna: [“Green”,”Red”] & [“Green”,”Black”] -> result: [“Yes”,”No”];
+
+#### **ArrayList Topshiriq 5:**
+1. **a)** ArrayList to’plamini ikki elementini o’rnini almashtiruvchi metod yozing.
+2. **b)** Ikkita ArrayList to’plamlarini birlashtiruvchi metod yozing.
+3. **c)** ArrayList to’plamini faqat 3 ta element joylashadigan qilib yarating, hamda 3 ta element joylaganizdan so’ng, ushbu to’plam o’lchamini 6 ta elementga oshiring.
